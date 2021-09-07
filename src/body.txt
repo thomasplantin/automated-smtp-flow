@@ -1,0 +1,8 @@
+Dear {},
+
+This is an automated email sent with python. 
+
+We hope you have a great rest of your day!
+
+Best,
+Gustavo
